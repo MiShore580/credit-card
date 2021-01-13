@@ -1,0 +1,20 @@
+.jp-card-container {
+  margin: auto;
+  padding: 50px;
+  display: block;
+}
+input {
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 10px;
+  display: block;
+  text-align: center;
+}
+button {
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 10px;
+  display: block;
+  background-color: rgb(63, 63, 143);
+  color: white;
+}
